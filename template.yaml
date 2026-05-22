@@ -1,0 +1,8 @@
+name: dom
+description: dom
+version: 1.0.0
+repo_template_url: https://github.com/gonwms/dpad-templates
+stack:
+  - dom
+tags: []
+dependencies: []
